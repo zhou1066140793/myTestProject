@@ -1,0 +1,7 @@
+com\zzb\ssm\controller\UserController.class
+com\zzb\ssm\controller\PermissionController.class
+com\zzb\ssm\controller\SysLogController.class
+com\zzb\ssm\controller\RoleContrloller.class
+com\zzb\ssm\controller\LogAop.class
+com\zzb\ssm\controller\OrdersController.class
+com\zzb\ssm\controller\ProductController.class

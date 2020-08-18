@@ -1,0 +1,8 @@
+com\zzb\ssm\dao\IOrderDao.class
+com\zzb\ssm\dao\IRoleDao.class
+com\zzb\ssm\dao\IProductDao.class
+com\zzb\ssm\dao\TravellerDao.class
+com\zzb\ssm\dao\IMemberDao.class
+com\zzb\ssm\dao\IPermissionDao.class
+com\zzb\ssm\dao\ISysLogDao.class
+com\zzb\ssm\dao\IUserDao.class

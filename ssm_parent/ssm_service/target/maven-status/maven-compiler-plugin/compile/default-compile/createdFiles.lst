@@ -1,0 +1,12 @@
+com\zzb\ssm\service\Impl\ILogServiceImpl.class
+com\zzb\ssm\service\Impl\IRoleServiceImpl.class
+com\zzb\ssm\service\IOrdersService.class
+com\zzb\ssm\service\IRoleService.class
+com\zzb\ssm\service\Impl\IPermissionServiceImpl.class
+com\zzb\ssm\service\IUserService.class
+com\zzb\ssm\service\IPermissionService.class
+com\zzb\ssm\service\Impl\IUserServiceImpl.class
+com\zzb\ssm\service\Impl\IOrdersServiceImpl.class
+com\zzb\ssm\service\IProductService.class
+com\zzb\ssm\service\Impl\ProductServiceImpl.class
+com\zzb\ssm\service\ILogService.class
